@@ -1,0 +1,9 @@
+The Shadow Fixes:
+
+Render Lighting
+Enemy difficulty
+Terrain touch-ups
+Cabin model redo
+Add stamina
+Improve death sequence
+2 Player version
